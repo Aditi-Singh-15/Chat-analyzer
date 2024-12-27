@@ -11,6 +11,14 @@ The WhatsApp Chat Analyzer is a Streamlit-based web application designed to help
 
 
 ---
+## Live Demo
+[App Live At](https://whatsapp-chat-analyzer-nox54hxnakbbqteeoi8v6f.streamlit.app/)
+
+### Key Instructions for Users:
+- **Export Your WhatsApp Chat:** Export your (group / individual) chat from WhatsApp without media (ensure it's in .txt format).
+- **Upload the File:** Use the "Browse Files" section to upload the exported .txt file.
+- **Select Your Options:** Choose the desired analysis options(overall / specified user) from the dropdown menu.
+- **Show Analysis:** Click on the "Show Analysis" button to generate insights and visualize your chat data.
 
 ## Installation  
 
