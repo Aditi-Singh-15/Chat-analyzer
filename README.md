@@ -26,8 +26,8 @@ Follow the steps below to set up the project on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Aditi-Singh-15/whatsapp-chat-analyzer.git
-   cd whatsapp-chat-analyzer
+   git clone https://github.com/Aditi-Singh-15/Chat-analyzer.git
+   cd Chat-analyzer
 2. **Install the Required Dependencies:**
    ```bash
    pip install -r requirements.txt
